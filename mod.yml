@@ -1,0 +1,73 @@
+title: Aqua Worthy Of Censorship - OpenKH
+originalAuthor: Zyga21
+description: This is a repackage of Zyga21's "Aqua Worthy Of Censorship" mod for OpenKH.
+dependencies: 
+assets:
+- name: remastered/arc/boss/b80ex00d.arc/JP_b80ex00d_arc10.DDS
+  method: copy
+  source:
+  - name: remastered/arc/boss/b80ex00d.arc/JP_b80ex00d_arc10.DDS
+- name: remastered/arc/boss/b83ex00d.arc/JP_b83ex00d_arc9.dds
+  method: copy
+  source:
+  - name: remastered/arc/boss/b83ex00d.arc/JP_b83ex00d_arc9.dds
+- name: remastered/arc/boss/b88ex00d.arc/JP_b88ex00d_arc10.dds
+  method: copy
+  source:
+  - name: remastered/arc/boss/b88ex00d.arc/JP_b88ex00d_arc10.dds
+- name: remastered/arc/boss/b89ex00d.arc/JP_b89ex00d_arc10.dds
+  method: copy
+  source:
+  - name: remastered/arc/boss/b89ex00d.arc/JP_b89ex00d_arc10.dds
+- name: remastered/arc/etc/MgMdAqua.arc/JP_MgMdAqua_arc0.dds
+  method: copy
+  source:
+  - name: remastered/arc/etc/MgMdAqua.arc/JP_MgMdAqua_arc0.dds
+- name: remastered/arc/etc/p22aqCommon.arc/JP_p22aqCommon_arc9.dds
+  method: copy
+  source:
+  - name: remastered/arc/etc/p22aqCommon.arc/JP_p22aqCommon_arc9.dds
+- name: remastered/arc/menu/p02exPV.arc/JP_p02exPV_arc9.DDS
+  method: copy
+  source:
+  - name: remastered/arc/menu/p02exPV.arc/JP_p02exPV_arc9.DDS
+- name: remastered/arc/pc/p02base.arc/JP_p02base_arc9.dds
+  method: copy
+  source:
+  - name: remastered/arc/pc/p02base.arc/JP_p02base_arc9.dds
+- name: remastered/arc/pc/p02bd00.arc/JP_p02bd00_arc9.dds
+  method: copy
+  source:
+  - name: remastered/arc/pc/p02bd00.arc/JP_p02bd00_arc9.dds
+- name: remastered/arc/pc/p22bd00.arc/JP_p22bd00_arc9.dds
+  method: copy
+  source:
+  - name: remastered/arc/pc/p22bd00.arc/JP_p22bd00_arc9.dds
+- name: remastered/arc/pc/p72ex00.arc/JP_p72ex00_arc9.dds
+  method: copy
+  source:
+  - name: remastered/arc/pc/p72ex00.arc/JP_p72ex00_arc9.dds
+- name: remastered/chara/high/h02ex/00/h02ex00.pmo/-1.DDS
+  method: copy
+  source:
+  - name: remastered/chara/high/h02ex/00/h02ex00.pmo/-1.DDS
+- name: remastered/chara/pc/p02ex/00/p02ex00.pmo/-0.DDS
+  method: copy
+  source:
+  - name: remastered/chara/pc/p02ex/00/p02ex00.pmo/-0.DDS
+- name: remastered/chara/pc/p22ex/00/p22ex00.pmo/-0.dds
+  method: copy
+  source:
+  - name: remastered/chara/pc/p22ex/00/p22ex00.pmo/-0.dds
+- name: remastered/ForEventJP/high/h02ex/00/h02ex00.pmo/-1.dds
+  method: copy
+  source:
+  - name: remastered/ForEventJP/high/h02ex/00/h02ex00.pmo/-1.dds
+- name: remastered/ForEventJP/pc/p02ex/00/p02ex00.pmo/-0.DDS
+  method: copy
+  source:
+  - name: remastered/ForEventJP/pc/p02ex/00/p02ex00.pmo/-0.DDS
+- name: remastered/ForEventJP/pc/p22ex/00/p22ex00.pmo/-0.DDS
+  method: copy
+  source:
+  - name: remastered/ForEventJP/pc/p22ex/00/p22ex00.pmo/-0.DDS
